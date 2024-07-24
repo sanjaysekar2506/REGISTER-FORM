@@ -1,0 +1,100 @@
+body{
+    background-image: url(/img/bg\ img.png);
+    background-size: cover;
+}
+p{
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+body h2{
+    font-family: Roboto, sans-serif;
+    
+}
+#Reigster{
+
+    width: 25%;
+    height: 60vh;
+    padding-top: 25px;
+    padding: 25px;
+    background-color: #fff;
+
+
+    /* background-color: white !important; */
+    
+
+}
+#analytics{
+    background-color: #28324e;
+    width: 25%;
+    color: white;
+    /* text-align: center; */
+    /* margin: 5px; */
+    padding: 25px;
+    text-align: center;
+    height: 60vh;
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    margin-left: 15px;
+    /* border:1px solid black; */
+    height: 75vh;
+    
+    
+}
+.firstpage{
+    display: flex;
+
+}
+.line{
+    padding: 2px;
+}
+input{
+    padding: 5px;
+    border: none;
+}
+ h2{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+#analytics img{
+    width: 91px;
+    height: auto;
+    border-radius: 100%;
+}
+.email input{
+    width: 95.5%;
+    border: none;
+    
+    
+}
+.day select{
+    padding: 5px;
+    width: 98.5%;
+    font-weight: lighter;
+    border: none;
+    margin-bottom: 20px;
+    
+}
+.btn button{
+    background-color: #006dfd;
+    padding: 12px;
+    width: 98.5%;
+    color: #fff;
+    margin-bottom: 25px;
+    border: none;
+    border-radius: 8px;
+    
+    
+}
+.day p{
+    margin-bottom: 20px;
+    font-weight: lighter;
+    font-size: 12px;
+}
+.twopara{
+    margin-top: 75px;
+}
